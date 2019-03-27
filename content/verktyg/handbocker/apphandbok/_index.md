@@ -12,6 +12,25 @@ Denna sida är just nu under arbete och kommer att uppdateras/ändras. Har du sy
 
 {{% /box %}}
 
+<img src ="file:///H:/Projekt/Appar%20i%20Region%20Halland/Bild_ordnat_inforande.jpg"
+      alt = " Det finns tre nivåer av införande. Tjänster vi rekomenderar men inte själva använder eller har data kopplat till. Tjänster vi inte själva använder men har tagit in i vårt utbud och ebentuellt använder data från. Tjänster vi själva använder i vårt arbete."
+     
+<b>Spår 1 - Fristående tjänster som vi rekomenderar: </b>
+<i>Viktigt att tydliggöra att det endast är en rekommendation, att vi inte har något ansvar för tjänsten, inga data utbyts. Går inte in i objekten utan sköts utanför.</i>
+-	Samla rekommendationerna i form av en lista/wiki på exempel 1177 eller regionhalland.se. 
+-	Information finns på sidan om vad rekommendationen innebär som man kan hänvisa sina patienter/invånare till
+
+<b>Spår 2 - Tjänster som vi tar med i vårt utbud i Region Halland och riktar sig till invånaren men där data används av oss:</b>
+<i>Viktigt att den går igenom från ide till produktions flödet för att säkra upp att det passar in i Region Hallands struktur. </i>
+-	Omhändertas i ett objekt och betraktas som en del av verksamhetens process och därav bli en del av ordnat införande.
+-	Underlaget till det ordnade införandet utgår från checklistan nedan som tar upp lagkrav, ekonomi, användbarhet m.m. för att säkra att tjänsten möter behovet och att tjänsten är anpassad till Region Hallands regelverk.
+-	Integreras i Region Hallands appen.
+
+<b>Spår 3 - Tjänster som vi tar med i vårt utbud i Region Halland och riktar sig till medarbetarna i vår organisation:</b> 
+<i>Viktigt att den går igenom från ide till produktions flödet för att säkra upp att det passar in i Region Hallands struktur.</i>
+-	Omhändertas i ett objekt och betraktas som en del av verksamhetens process och därav bli en del av ordnat införande.
+- Underlaget till det ordnade införandet utgår från checklistan nedan som tar upp lagkrav, ekonomi, användbarhet m.m. för att säkra att tjänsten möter behovet och att tjänsten är anpassad till Region Hallands regelverk.
+-	Integreras i Region Hallands appen.
 
 ## Ordnat införande av digitala tjänster
 

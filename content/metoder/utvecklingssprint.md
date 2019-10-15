@@ -72,3 +72,15 @@ De buggar som inte stängts placeras på Backloggen och prioriteras.
 ### Buggar som egentligen var nya krav
 
 De buggar som visat sig egentligen vara nya krav ska skrivas om till User Stories och läggas på Backloggen för prioritering till kommande sprintar. Buggen status sätts därefter till Copied to Backlog.
+
+## Leveranser
+
+Vi gör oftast två olika leveranser, en till testmiljö och en till produktionsmiljö. I samband med respektive leverans till testmiljön så behöver vi ett effektivt sätt att kommunicera med beställaren, att det finns en ny version att testa. På liknande sätt behöver vi föra en dialog i samband med leverans till produktion. För varje sprint bör det på förhand finnas en två Tasks, en för varje leverans. 
+
+### Leverans till testmiljö
+
+När utföraren levererat till testmiljön så kommunicerar denne det till utföraren via dialogfunktionen i Task, genom att skriva ett @ före beställarens namn och information om att systemet finns i en ny version i testmiljön. Beställaren får då en notifiering via mejl om detta. Om testerna inte ger önskat resultat så följs bugg-processen (se annan del på denna sida), men om inga fel påträffas, eller alla åtgärdats, så kommnunicerar beställaren till utföraren, via Task, att testet är klart och godkänt. Då man kommunicerar med den som är "Assigned to" så behöver inget namn anges (med @) utan den ansvarige för Task får ett meddelande ändå. Under hela testprocessen så ligger Task som "Resolved" och först när den är helt klar så sätts den till "Closed". Status på Task är ut utförarens perspektiv.
+
+### Leverans till produktionsmiljö
+
+När testprocessen är avklarad så återstår leverans till produktionsmiljön. Här är det viktigt att synka leveransen med beställaren så att den får så lite påverkan som möjligt på verksamheten. All kommunikation mellan utföraren och beställaren sker i dialogfunktionen på Task, på liknande sätt som vid leverans till testmiljön. 
